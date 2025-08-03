@@ -16,7 +16,7 @@ const Recipes = () => {
       description: "A nutritious breakfast bowl packed with natural goodness",
       time: "10 mins",
       serves: "1",
-      image: "🥣",
+      image: "",
       ingredients: ["3 tbsp Fig Malt", "1 banana", "Greek yogurt", "Nuts & seeds"]
     },
     {
@@ -24,7 +24,7 @@ const Recipes = () => {
       description: "Healthy baked treats that kids and adults will love",
       time: "25 mins",
       serves: "12",
-      image: "🧁",
+      image: "",
       ingredients: ["1/2 cup Fig Malt", "Whole wheat flour", "Eggs", "Baking powder"]
     }
   ];
