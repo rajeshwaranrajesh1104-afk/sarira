@@ -8,7 +8,7 @@ const Recipes = () => {
       description: "A traditional Tamil wellness drink perfect for any time of day",
       time: "5 mins",
       serves: "2",
-      image: "",
+      image: "/images/WhatsApp Image 2025-08-02 at 13.31.36_f27a5799.png",
       ingredients: ["2 tbsp SARIRA Fig Malt", "1 cup warm milk", "Honey to taste"]
     },
     {
@@ -24,7 +24,7 @@ const Recipes = () => {
       description: "Healthy baked treats that kids and adults will love",
       time: "25 mins",
       serves: "12",
-      image: "",
+      image:
       ingredients: ["1/2 cup Fig Malt", "Whole wheat flour", "Eggs", "Baking powder"]
     }
   ];
