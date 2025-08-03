@@ -8,7 +8,7 @@ const Recipes = () => {
       description: "A traditional Tamil wellness drink perfect for any time of day",
       time: "5 mins",
       serves: "2",
-      image: "🥛",
+      image: "WhatsApp Image 2025-08-02 at 13.31.36_f27a5799.png",
       ingredients: ["2 tbsp SARIRA Fig Malt", "1 cup warm milk", "Honey to taste"]
     },
     {
