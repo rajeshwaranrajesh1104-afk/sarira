@@ -26,27 +26,11 @@ const Hero = () => {
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-white mb-4 leading-tight">
             SARIRA
           </h1>
-          
-          <div className="text-base sm:text-lg md:text-xl text-white/80 mb-4 sm:mb-6 px-4">
-            with Organic Figs & Premium Nuts
-          </div>
-          
-          <div className="text-sm sm:text-base text-white/70 mb-6 sm:mb-8">
-            200g pouch
-          </div>
 
           {/* Tagline */}
           <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-white/90 max-w-4xl mx-auto leading-relaxed px-4">
             Legacy of Tamil Wellness in a Spoon
           </p>
-
-          {/* CTA Button */}
-          <div className="pt-6 sm:pt-8 px-4">
-            <button className="group bg-[#E38A30] hover:bg-[#E38A30]/90 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-xl flex items-center mx-auto min-h-[48px] touch-manipulation">
-              Shop Now
-              <ArrowRight className="ml-2 w-4 h-4 sm:w-5 sm:h-5 group-hover:translate-x-1 transition-transform duration-300" />
-            </button>
-          </div>
         </div>
       </div>
     </section>
